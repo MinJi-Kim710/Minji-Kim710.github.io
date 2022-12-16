@@ -1,52 +1,52 @@
-STATE,Adults with Any Mental Illness,Youth with At Least One Major Depressive Episode
-Alabama,"737,000","45,000"
-Alaska,"107,000","8,000"
-Arizona,"944,000","72,000"
-Arkansas,"464,000","32,000"
-California,"5,419,000","401,000"
-Colorado,"838,000","59,000"
-Connecticut,"506,000","36,000"
-Delaware,"138,000","8,000"
-District of Columbia,"117,000","3,000"
-Florida,"2,861,000","185,000"
-Georgia,"1,385,000","99,000"
-Hawaii,"173,000","11,000"
-Idaho,"310,000","24,000"
-Illinois,"1,627,000","141,000"
-Indiana,"1,041,000","74,000"
-Iowa,"450,000","34,000"
-Kansas,"421,000","33,000"
-Kentucky,"747,000","41,000"
-Louisiana,"663,000","39,000"
-Maine,"203,000","14,000"
-Maryland,"778,000","59,000"
-Massachusetts,"1,109,000","66,000"
-Michigan,"1,405,000","107,000"
-Minnesota,"765,000","58,000"
-Mississippi,"420,000","28,000"
-Missouri,"925,000","68,000"
-Montana,"159,000","11,000"
-Nebraska,"252,000","20,000"
-Nevada,"424,000","34,000"
-New Hampshire,"203,000","13,000"
-New Jersey,"1,115,000","77,000"
-New Mexico,"276,000","25,000"
-New York,"2,713,000","161,000"
-North Carolina,"1,387,000","95,000"
-North Dakota,"103,000","6,000"
-Ohio,"1,759,000","129,000"
-Oklahoma,"578,000","44,000"
-Oregon,"757,000","48,000"
-Pennsylvania,"1,786,000","113,000"
-Rhode Island,"164,000","10,000"
-South Carolina,"704,000","46,000"
-South Dakota,"113,000","8,000"
-Tennessee,"977,000","65,000"
-Texas,"3,309,000","296,000"
-Utah,"500,000","47,000"
-Vermont,"99,000","5,000"
-Virginia,"1,195,000","83,000"
-Washington,"1,277,000","75,000"
-West Virginia,"326,000","18,000"
-Wisconsin,"822,000","61,000"
-Wyoming,"88,000","6,000"
+state,Adults with Any Mental Illness,Youth with At Least One Major Depressive Episode
+Alabama,737000,45000
+Alaska,107000,8000
+Arizona,944000,72000
+Arkansas,464000,32000
+California,5419000,401000
+Colorado,838000,59000
+Connecticut,506000,36000
+Delaware,138000,8000
+District of Columbia,117000,3000
+Florida,2861000,185000
+Georgia,1385000,99000
+Hawaii,173000,11000
+Idaho,310000,24000
+Illinois,1627000,141000
+Indiana,1041000,74000
+Iowa,450000,34000
+Kansas,421000,33000
+Kentucky,747000,41000
+Louisiana,663000,39000
+Maine,203000,14000
+Maryland,778000,59000
+Massachusetts,1109000,66000
+Michigan,1405000,107000
+Minnesota,765000,58000
+Mississippi,420000,28000
+Missouri,925000,68000
+Montana,159000,11000
+Nebraska,252000,20000
+Nevada,424000,34000
+New Hampshire,203000,13000
+New Jersey,1115000,77000
+New Mexico,276000,25000
+New York,2713000,161000
+North Carolina,1387000,95000
+North Dakota,103000,6000
+Ohio,1759000,129000
+Oklahoma,578000,44000
+Oregon,757000,48000
+Pennsylvania,1786000,113000
+Rhode Island,164000,10000
+South Carolina,704000,46000
+South Dakota,113000,8000
+Tennessee,977000,65000
+Texas,3309000,296000
+Utah,500000,47000
+Vermont,99000,5000
+Virginia,1195000,83000
+Washington,1277000,75000
+West Virginia,326000,18000
+Wisconsin,822000,61000
+Wyoming,88000,6000
